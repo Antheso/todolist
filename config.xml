@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.example.angular-mobile-app" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>TestApp</name>
+<widget id="com.example.todo" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Todo list</name>
     <description>
         A sample angular project converted to mobile app using Cordova.
     </description>
     <author email="nacojohn@gmail.com" href="http://rad5.com.ng">
-        John Nnanna
+        Bohdan Perepelitsa
     </author>
     <content src="index.html" />
     <access origin="*" />
